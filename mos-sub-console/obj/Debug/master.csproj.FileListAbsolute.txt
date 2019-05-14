@@ -1,0 +1,9 @@
+E:\IoT\c#-mqtt\WindowsFormsApp1\mos-sub-console\bin\Debug\M2Mqtt.Net.dll
+E:\IoT\c#-mqtt\WindowsFormsApp1\mos-sub-console\bin\Debug\M2Mqtt.Net.pdb
+E:\IoT\c#-mqtt\WindowsFormsApp1\mos-sub-console\obj\Debug\master.csproj.CoreCompileInputs.cache
+E:\IoT\c#-mqtt\WindowsFormsApp1\mos-sub-console\obj\Debug\master.csproj.CopyComplete
+E:\IoT\c#-mqtt\WindowsFormsApp1\mos-sub-console\bin\Debug\master.exe.config
+E:\IoT\c#-mqtt\WindowsFormsApp1\mos-sub-console\bin\Debug\master.exe
+E:\IoT\c#-mqtt\WindowsFormsApp1\mos-sub-console\bin\Debug\master.pdb
+E:\IoT\c#-mqtt\WindowsFormsApp1\mos-sub-console\obj\Debug\master.exe
+E:\IoT\c#-mqtt\WindowsFormsApp1\mos-sub-console\obj\Debug\master.pdb
